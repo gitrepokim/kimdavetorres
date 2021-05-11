@@ -4,7 +4,6 @@
     <h2 align="center">Kim Dave Torres</h2>
   </a>
 </p> 
-<p align="center">Kim Dave Torres</p>
 
 ![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fanuraghazra.github.io)
 ![Anurag Hazra Site Preview](https://repository-images.githubusercontent.com/352346883/89945d00-b258-11eb-8c4e-4812c2b82caf)
